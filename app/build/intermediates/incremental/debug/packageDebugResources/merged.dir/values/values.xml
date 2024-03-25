@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">133GameSnake</string>
+    <string name="tap_to_play">Tap To Play!</string>
+    <style name="Base.Theme._133GameSnake" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme._133GameSnake" parent="Base.Theme._133GameSnake"/>
+</resources>

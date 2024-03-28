@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="assets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Snake-Game/app/build/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/get_apple.ogg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Snake-Game/app/build/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/snake_death.ogg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Snake-Game/app/build/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/myFont.ttf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

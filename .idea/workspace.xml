@@ -101,6 +101,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< Updated upstream
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,6 +113,15 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/dab4s/Downloads/SnakeGame03",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/dab4s/Downloads/SnakeGame03/Snake-Game"
+>>>>>>> Stashed changes
   }
 }]]></component>
   <component name="RunManager">
